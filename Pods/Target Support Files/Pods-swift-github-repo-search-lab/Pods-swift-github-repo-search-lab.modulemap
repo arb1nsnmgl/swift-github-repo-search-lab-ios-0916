@@ -1,6 +1,0 @@
-framework module Pods_swift_github_repo_search_lab {
-  umbrella header "Pods-swift-github-repo-search-lab-umbrella.h"
-
-  export *
-  module * { export * }
-}
